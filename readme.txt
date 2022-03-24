@@ -6,3 +6,5 @@ git commit -m "说明"
 git status
 
 change
+
+first change --> add

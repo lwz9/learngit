@@ -8,3 +8,6 @@ git status
 change
 
 first change --> add
+
+second change --> no add
+
